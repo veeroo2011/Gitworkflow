@@ -3,3 +3,7 @@ feature1()
 {
 code
 }
+feature-B()
+{
+code
+}
